@@ -38,7 +38,7 @@ The distinct elements of the array are 3, 9, 0 and 1.
 *********************/
 
 
-package Hashing;
+package Hashing_1;
 
 import java.util.*;
 

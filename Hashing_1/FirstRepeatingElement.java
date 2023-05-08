@@ -57,7 +57,7 @@ Explanation 2:
 ***********/
 
 
-package Hashing;
+package Hashing_1;
 import java.util.*;
 
 /**

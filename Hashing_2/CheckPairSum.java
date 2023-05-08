@@ -41,7 +41,7 @@ Example Explanation
 In Example 1:
 It is possible to obtain sum 8 using 3 and 5.
 ***************/
-
+package Hashing_2;
 import java.util.*;
 
 /**
